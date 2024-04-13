@@ -8,6 +8,9 @@ html, body{
     color: #fff;
 }
 
+.particles{
+    height: 100vh;
+}
 
 .container{
     position: fixed;
